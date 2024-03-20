@@ -1,0 +1,41 @@
+Mã hóa	Tên	Chú thích
+ag	Hình thái tính từ	Các hình thái tính từ. Mã tính từ là a, mã hình thái từ là g đặt sau a.
+a	Tính từ	Lấy chữ cái đầu tiên của từ "adjective" trong tiếng Anh.
+ad	Phó tính từ	Tính từ được sử dụng trực tiếp như một trạng ngữ. Mã tính từ là a kết hợp với mã phó từ là d.
+an	Danh tính từ	Tính từ có chức nắng làm danh từ. Mã tính từ là a kết hợp với mã danh từ là n.
+b	Loại từ khác	Lấy chữ cái đầu của từ "khác" trong tiếng Trung.
+c	Liên từ	Lấy chữ cái đầu của từ "cinjunction" trong tiếng Anh.
+dg	Hình thái phó từ	Các hình thái phó từ. Mã phó từ là d, mã hình thái là g đứng sau d.
+d	Phó từ	Lấy chữ cái thứ 2 của từ "adverb" trong tiếng Anh, vì chữ cái đầu đã được sử dụng trong tính từ.
+e	Từ cảm thán	Lấy chữ cái đầu tiên của từ "exclamation" trong tiếng Anh.
+f	Phương vị từ	Lấy chữ cái đầu tiên của từ "Phương" trong tiếng Trung.
+g	Hình thái từ	Hầu hết các hình thái từ có thể được sử dụng làm "từ gốc", lấy chữ cái đầu của từ "gốc" trong tiếng Trung. 
+h	Thành phần trước	Lấy chữ cái đầu tiên của từ "head" trong tiếng Anh.
+i	Thành ngữ	Lấy chữ cái đầu tiên của từ "idiom" trong tiếng Anh.
+j	Từ viết tắt	Lấy chữ cái đầu tron chữ "đơn giản" trong tiếng Trung.
+k	Thành phần sau	
+l	Từ ngữ dân gian	Từ ngữ dân gian chưa hẳn là thành ngữ, hơi hướng "tạm thời", lấy chữ cái đầu của chữ đầu.
+m	Số từ	Lấy chữ cái đầu của từ "numeral" trong tiếng Anh, vì n và u đã sử dụng.
+ng	Hình thái danh từ	Các hình thái danh từ. Mã danh từ là n, mã hình thái từ là g đặt sau n.
+n	Danh từ	Lấy chữ cái đầu của từ "noun" trong tiếng Anh.
+nr	Tên người	Mã danh từ là n kết hợp với r là chữ cái đầu của từ "người" trong tiếng Trung.
+ns	Tên địa điểm	Mã danh từ là n kết hợp với mã của từ chỉ địa điểm là s.
+nt	Thể chế nhóm	Chữ cái đầu của từ "nhóm" là t, và mã danh từ n kết hợp với t.
+nz	Các tên riêng	Chữ cái đầu của từ "riêng" trong tiếng trung là z, kết hợp với mã danh từ là n.
+o	Từ tượng thanh	Lấy chữ cái đầu tiên của từ "onomatopoeia" trong tiếng Anh.
+p	Giới từ	Lấy chữ cái đầu tiên của từ "prepositional" trong tiếng Anh.
+q	Lượng từ	Lấy chữ cái đầu tiên của từ "quantity" trong tiếng Anh.
+r	Đại từ	Lấy chữ cái thứ 2 của từ "pronoun" trong tiếng Anh, vì chữ cái đầu đã sử dụng cho giới từ.
+s	Từ chỉ địa điểm	Lấy chữ cái đầu tiên của từ "space" trong tiếng Anh.
+tg	Hình thái từ chỉ thời gian	Hình thái từ chỉ thời gian, mã từ chỉ thời gian là t và đặt trước mã hình thái là g.
+t	Từ ngữ chỉ thời gian	Lấy chữ cái đầu của từ "time" trong tiếng Anh.
+u	Trợ từ	Lấy chữ cái đầu của từ "auxiliary" trong tiếng Anh.
+vg	Hình thái động từ	Hình thái động từ, mã từ chỉ động từ là v và đặt trước mã hình thái là g.
+v	Động từ	Lấy chữ cái đầu của từ "verb" trong tiếng Anh.
+vd	Phó động từ	Động từ từ được sử dụng trực tiếp như một trạng ngữ. Mã động từ kết hợp với mã phó từ.
+vn	Danh động từ	Động từ có chức năng làm danh từ. Mã động từ là v kết hợp với mã danh từ là n.
+w	Dấu câu	
+x	Hình thái phi ngữ	Hình thái phi ngữ từ chỉ là một kí tự, chữ cái x thường được dùng để biểu thị các số và kí tự chưa rõ.
+y	Câu ngữ khí	Lấy chữ cái đầu của từ "ngôn ngữ" trong tiếng Trung.
+z	Trạng từ	Lấy chữ cái đầu chữ đầu tiên của từ "trạng thái" trong tiếng Trung.
+un	Các loại từ không xác định	Các từ không thể xác định và các cụm từ do người dùng xác định. Lấy 2 chữ cái đầu tiên của từ "unknown" trong tiếng Anh. (Tiêu chuẩn của Đại học Phi Bắc, được định nghĩa trong phân từ CSW)
